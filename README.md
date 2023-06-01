@@ -18,5 +18,11 @@ I have used facenet model for face embedding extraction and pyannote model for a
 
 
 # Reference Papers
-http://cvlab.cse.msu.edu/project-dr-gan.html
+http://cvlab.cse.msu.edu/project-dr-gan.html 
+
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=arnumber=9350195
+
+# Future work
+
+- Explore audio diarisation techniques to address the challenge of simultaneous speech by multiple individuals in the video, enabling more accurate identification in complex audio-visual scenarios.
+- Incorporate lips movement as an additional modality, leveraging advanced techniques such as lip reading or lip motion analysis, to enhance the robustness and accuracy of the system, especially in scenarios with low-quality or compromised audio.
